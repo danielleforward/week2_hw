@@ -1,2 +1,2 @@
-# week2_hw
+# P&E HW Week 2
 Processing exercises
