@@ -1,6 +1,4 @@
-// Fill the canvas with a grid of rainbow dots
-
-int xpos = 50; // x position of the dot
+int xpos = 50; // x and y position of the circle
 
 void setup() {
   size(820, 820); // Set the size of the canvas
